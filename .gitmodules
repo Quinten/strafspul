@@ -13,3 +13,6 @@
 [submodule "utilsdesktop"]
 	path = utilsdesktop
 	url = git@github.com:Quinten/utilsdesktop.git
+[submodule "treetopdrop"]
+	path = treetopdrop
+	url = git@github.com:Quinten/treetopdrop.git
