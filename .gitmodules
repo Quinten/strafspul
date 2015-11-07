@@ -10,3 +10,6 @@
 [submodule "verlet3d"]
 	path = verlet3d
 	url = git@github.com:Quinten/verlet3d.git
+[submodule "utilsdesktop"]
+	path = utilsdesktop
+	url = git@github.com:Quinten/utilsdesktop.git
