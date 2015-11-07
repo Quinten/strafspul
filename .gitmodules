@@ -1,0 +1,3 @@
+[submodule "voidcrab"]
+	path = voidcrab
+	url = git@github.com:Quinten/voidcrab.git
