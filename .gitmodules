@@ -19,3 +19,6 @@
 [submodule "three"]
 	path = three
 	url = git@github.com:Quinten/three.git
+[submodule "text"]
+	path = text
+	url = git@github.com:Quinten/text.git
