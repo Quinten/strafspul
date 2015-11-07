@@ -1,4 +1,4 @@
 strafspul
 =========
 
-the strafspul blog (that's been needing a restyling for a long time)
+This is a cluster of submodules that make up the strafspul.be website
