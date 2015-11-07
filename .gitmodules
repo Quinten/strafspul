@@ -7,3 +7,6 @@
 [submodule "webwolk"]
 	path = webwolk
 	url = git@github.com:Quinten/webwolk.git
+[submodule "verlet3d"]
+	path = verlet3d
+	url = git@github.com:Quinten/verlet3d.git
