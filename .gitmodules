@@ -16,3 +16,6 @@
 [submodule "treetopdrop"]
 	path = treetopdrop
 	url = git@github.com:Quinten/treetopdrop.git
+[submodule "three"]
+	path = three
+	url = git@github.com:Quinten/three.git
