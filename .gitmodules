@@ -22,3 +22,6 @@
 [submodule "text"]
 	path = text
 	url = git@github.com:Quinten/text.git
+[submodule "testcave"]
+	path = testcave
+	url = git@github.com:Quinten/testcave.git
