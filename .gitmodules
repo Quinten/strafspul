@@ -28,3 +28,6 @@
 [submodule "slidesurface"]
 	path = slidesurface
 	url = git@github.com:Quinten/slidesurface.git
+[submodule "shredder"]
+	path = shredder
+	url = git@github.com:Quinten/shredder.git
