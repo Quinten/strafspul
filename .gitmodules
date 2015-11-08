@@ -25,3 +25,6 @@
 [submodule "testcave"]
 	path = testcave
 	url = git@github.com:Quinten/testcave.git
+[submodule "slidesurface"]
+	path = slidesurface
+	url = git@github.com:Quinten/slidesurface.git
