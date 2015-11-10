@@ -31,3 +31,6 @@
 [submodule "shredder"]
 	path = shredder
 	url = git@github.com:Quinten/shredder.git
+[submodule "dev_on_the_run"]
+	path = dev_on_the_run
+	url = git@github.com:Quinten/dev_on_the_run.git
