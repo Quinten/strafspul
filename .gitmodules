@@ -37,3 +37,6 @@
 [submodule "imgmaptool"]
 	path = imgmaptool
 	url = git@github.com:Quinten/imgmaptool.git
+[submodule "heartbeat"]
+	path = heartbeat
+	url = git@github.com:Quinten/heartbeat.git
