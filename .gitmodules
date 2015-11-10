@@ -34,3 +34,6 @@
 [submodule "dev_on_the_run"]
 	path = dev_on_the_run
 	url = git@github.com:Quinten/dev_on_the_run.git
+[submodule "imgmaptool"]
+	path = imgmaptool
+	url = git@github.com:Quinten/imgmaptool.git
