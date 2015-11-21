@@ -43,3 +43,6 @@
 [submodule "swfLauncher"]
 	path = swfLauncher
 	url = git@github.com:Quinten/swfLauncher.git
+[submodule "swfcast"]
+	path = swfcast
+	url = git@github.com:Quinten/swfcast.git
