@@ -40,3 +40,6 @@
 [submodule "heartbeat"]
 	path = heartbeat
 	url = git@github.com:Quinten/heartbeat.git
+[submodule "swfLauncher"]
+	path = swfLauncher
+	url = git@github.com:Quinten/swfLauncher.git
