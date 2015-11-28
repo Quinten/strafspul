@@ -49,3 +49,6 @@
 [submodule "rusty_rally"]
 	path = rusty_rally
 	url = git@github.com:Quinten/rusty_rally.git
+[submodule "polarpusher"]
+	path = polarpusher
+	url = git@github.com:Quinten/polarpusher.git
