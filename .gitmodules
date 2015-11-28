@@ -55,3 +55,6 @@
 [submodule "piont"]
 	path = piont
 	url = git@github.com:Quinten/piont.git
+[submodule "paint_with_as3"]
+	path = paint_with_as3
+	url = git@github.com:Quinten/paint_with_as3.git
