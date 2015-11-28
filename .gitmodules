@@ -46,3 +46,6 @@
 [submodule "swfcast"]
 	path = swfcast
 	url = git@github.com:Quinten/swfcast.git
+[submodule "rusty_rally"]
+	path = rusty_rally
+	url = git@github.com:Quinten/rusty_rally.git
