@@ -58,3 +58,6 @@
 [submodule "paint_with_as3"]
 	path = paint_with_as3
 	url = git@github.com:Quinten/paint_with_as3.git
+[submodule "mitella"]
+	path = mitella
+	url = git@github.com:Quinten/mitella.git
