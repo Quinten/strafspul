@@ -64,3 +64,6 @@
 [submodule "mrbutton"]
 	path = mrbutton
 	url = git@github.com:Quinten/mrbutton.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:Quinten/blog.git
