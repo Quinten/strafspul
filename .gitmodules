@@ -67,3 +67,6 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:Quinten/blog.git
+[submodule "minirace"]
+	path = minirace
+	url = git@github.com:Quinten/minirace.git
