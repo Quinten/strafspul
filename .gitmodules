@@ -76,3 +76,6 @@
 [submodule "fivewordsmadeofcubes"]
 	path = fivewordsmadeofcubes
 	url = git@github.com:Quinten/fivewordsmadeofcubes.git
+[submodule "gap"]
+	path = gap
+	url = git@github.com:Quinten/gap.git
