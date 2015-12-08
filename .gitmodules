@@ -73,3 +73,6 @@
 [submodule "jsketch"]
 	path = jsketch
 	url = git@github.com:Quinten/jsketch.git
+[submodule "fivewordsmadeofcubes"]
+	path = fivewordsmadeofcubes
+	url = git@github.com:Quinten/fivewordsmadeofcubes.git
