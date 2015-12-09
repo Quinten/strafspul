@@ -79,3 +79,6 @@
 [submodule "gap"]
 	path = gap
 	url = git@github.com:Quinten/gap.git
+[submodule "draw_with_as3"]
+	path = draw_with_as3
+	url = git@github.com:Quinten/draw_with_as3.git
