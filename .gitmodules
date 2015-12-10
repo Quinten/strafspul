@@ -82,3 +82,6 @@
 [submodule "draw_with_as3"]
 	path = draw_with_as3
 	url = git@github.com:Quinten/draw_with_as3.git
+[submodule "downloads"]
+	path = downloads
+	url = git@github.com:Quinten/downloads.git
