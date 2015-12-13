@@ -85,3 +85,7 @@
 [submodule "downloads"]
 	path = downloads
 	url = git@github.com:Quinten/downloads.git
+[submodule "depthkit"]
+	path = depthkit
+	url = git@github.com:Quinten/depthkit.js.git
+	branch = gh-pages
