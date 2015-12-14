@@ -89,3 +89,6 @@
 	path = depthkit
 	url = git@github.com:Quinten/depthkit.js.git
 	branch = gh-pages
+[submodule "cubicclash"]
+	path = cubicclash
+	url = git@github.com:Quinten/cubicclash.git
