@@ -92,3 +92,6 @@
 [submodule "cubicclash"]
 	path = cubicclash
 	url = git@github.com:Quinten/cubicclash.git
+[submodule "cubesnake"]
+	path = cubesnake
+	url = git@github.com:Quinten/cubesnake.git
