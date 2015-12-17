@@ -95,3 +95,6 @@
 [submodule "cubesnake"]
 	path = cubesnake
 	url = git@github.com:Quinten/cubesnake.git
+[submodule "css3Dtest"]
+	path = css3Dtest
+	url = git@github.com:Quinten/css3Dtest.git
