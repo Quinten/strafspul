@@ -101,3 +101,6 @@
 [submodule "crash-while-saving"]
 	path = crash-while-saving
 	url = git@github.com:Quinten/crash-while-saving.git
+[submodule "cnvs"]
+	path = cnvs
+	url = git@github.com:Quinten/cnvs.git
