@@ -104,3 +104,6 @@
 [submodule "cnvs"]
 	path = cnvs
 	url = git@github.com:Quinten/cnvs.git
+[submodule "bonc"]
+	path = bonc
+	url = git@github.com:Quinten/bonc.git
