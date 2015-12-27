@@ -107,3 +107,6 @@
 [submodule "bonc"]
 	path = bonc
 	url = git@github.com:Quinten/bonc.git
+[submodule "blogOLD"]
+	path = blogOLD
+	url = git@github.com:Quinten/blogOLD.git
