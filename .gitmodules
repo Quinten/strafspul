@@ -110,3 +110,6 @@
 [submodule "blogOLD"]
 	path = blogOLD
 	url = git@github.com:Quinten/blogOLD.git
+[submodule "blob"]
+	path = blob
+	url = git@github.com:Quinten/blob.git
