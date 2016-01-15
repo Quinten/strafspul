@@ -113,3 +113,6 @@
 [submodule "blob"]
 	path = blob
 	url = git@github.com:Quinten/blob.git
+[submodule "laborec"]
+	path = laborec
+	url = git@github.com:Quinten/laborec.git
