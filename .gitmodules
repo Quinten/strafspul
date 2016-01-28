@@ -116,3 +116,6 @@
 [submodule "laborec"]
 	path = laborec
 	url = git@github.com:Quinten/laborec.git
+[submodule "dries"]
+	path = dries
+	url = git@github.com:Quinten/dries.git
