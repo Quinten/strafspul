@@ -119,3 +119,6 @@
 [submodule "dries"]
 	path = dries
 	url = git@github.com:Quinten/dries.git
+[submodule "512Lines"]
+	path = 512Lines
+	url = git@github.com:Quinten/512Lines.git
