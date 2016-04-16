@@ -122,3 +122,6 @@
 [submodule "512Lines"]
 	path = 512Lines
 	url = git@github.com:Quinten/512Lines.git
+[submodule "bcgenk"]
+	path = bcgenk
+	url = git@github.com:Quinten/bcgenk.git
