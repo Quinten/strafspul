@@ -125,3 +125,6 @@
 [submodule "bcgenk"]
 	path = bcgenk
 	url = git@github.com:Quinten/bcgenk.git
+[submodule "PPmemory"]
+	path = PPmemory
+	url = git@github.com:Quinten/PPmemory.git
