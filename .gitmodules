@@ -128,3 +128,6 @@
 [submodule "PPmemory"]
 	path = PPmemory
 	url = git@github.com:Quinten/PPmemory.git
+[submodule "pi"]
+	path = pi
+	url = git@github.com:Quinten/pi.git
